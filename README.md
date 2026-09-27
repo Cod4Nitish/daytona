@@ -6,7 +6,30 @@
 </div>
 
 > [!NOTE]
-> **Archived reference fork.** This is an unchanged fork of [daytonaio/daytona](https://github.com/daytonaio/daytona), kept only as a historical reference. For active development and current documentation, use the upstream project.
+> **Archived reference fork.** This repository preserves a historical snapshot of [daytonaio/daytona](https://github.com/daytonaio/daytona). It is kept as a reference while exploring developer-environment tooling; use the upstream project for active development and current documentation.
+
+## Reference-snapshot map
+
+~~~mermaid
+flowchart LR
+    A[Developer] --> B[Daytona CLI]
+    B --> C[Workspace configuration]
+    C --> D[Provider and provisioner]
+    D --> E[Development workspace]
+    E --> F[IDE, Git and port access]
+~~~
+
+## What this snapshot contains
+
+| Area | Repository evidence |
+| --- | --- |
+| Primary implementation | 589 Go source files in the preserved snapshot. |
+| Documentation | 173 Markdown files, plus docs and asset directories. |
+| CLI entry point | cmd/daytona/ contains command-line configuration code. |
+| Platform modules | pkg/ includes workspace, provider, provisioner, git, IDE, SSH, server, scheduler, and related packages. |
+| Developer setup | .devcontainer, .vscode, Makefile, GitHub workflows, and contribution documents are included. |
+
+The diagram describes the upstream tool's documented high-level workspace flow. It does not claim this profile authored Daytona or that this fork is current.
 
 ## Why this repository is retained
 
