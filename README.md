@@ -1,6 +1,15 @@
 > [!NOTE]
 > **Archived reference fork.** This is an unchanged fork of [daytonaio/daytona](https://github.com/daytonaio/daytona), kept only as a historical reference. For active development and current documentation, use the upstream project.
 
+## Why this repository is retained
+
+This fork was saved as a reference while exploring developer environments and automation tooling. It does not contain original product work or ongoing changes from this profile.
+
+## Use the upstream project instead
+
+- Source and releases: [daytonaio/daytona](https://github.com/daytonaio/daytona)
+- Documentation: [daytona.io/docs](https://www.daytona.io/docs)
+
 <br>
 
 <div align="center">
