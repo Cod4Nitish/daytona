@@ -1,3 +1,10 @@
+<div align="center">
+  <h1>Daytona — Reference Fork</h1>
+  <p>Developer-environment tooling reference, preserved without original modifications</p>
+  <img src="https://img.shields.io/badge/status-archived-6B7280?style=flat-square" alt="Status: archived" />
+  <img src="https://img.shields.io/badge/source-upstream%20fork-0969DA?style=flat-square" alt="Upstream fork" />
+</div>
+
 > [!NOTE]
 > **Archived reference fork.** This is an unchanged fork of [daytonaio/daytona](https://github.com/daytonaio/daytona), kept only as a historical reference. For active development and current documentation, use the upstream project.
 
