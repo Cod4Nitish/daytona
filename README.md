@@ -1,3 +1,6 @@
+> [!NOTE]
+> **Archived reference fork.** This is an unchanged fork of [daytonaio/daytona](https://github.com/daytonaio/daytona), kept only as a historical reference. For active development and current documentation, use the upstream project.
+
 <br>
 
 <div align="center">
